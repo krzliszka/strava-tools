@@ -1,5 +1,5 @@
 """
-Script for joining multiple FPX files downloaded from Strava.
+Script for joining multiple GPX files downloaded from Strava.
 
 Usage:      python join_gpx_files.py [gpx_directory] [output_file.gpx]
 Example:    python join_gpx_files.py gpx_from_workouts output.gpx
